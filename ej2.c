@@ -1,4 +1,4 @@
-//De BECCARI
+//DE BECCARI
 
 #include "ej2.h"
 #include "MKL25Z4.h"
